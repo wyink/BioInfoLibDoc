@@ -1,0 +1,4 @@
+<map id="BlastParserPt2Imple" name="BlastParserPt2Imple">
+<area shape="rect" id="node1" title="Blast結果ファイルより、各クエリに対する参照のスコア分布を出力する" alt="" coords="5,189,167,325"/>
+<area shape="rect" id="node2" href="$class_i_blast_parser.html" title="BLAST結果ファイルを解析する際に利用できるハンドラ" alt="" coords="23,5,149,141"/>
+</map>

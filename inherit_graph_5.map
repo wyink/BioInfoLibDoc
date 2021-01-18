@@ -1,0 +1,5 @@
+<map id="クラス階層図" name="クラス階層図">
+<area shape="rect" id="node1" href="$class_i_blast_parser.html" title="BLAST結果ファイルを解析する際に利用できるハンドラ" alt="" coords="5,31,99,57"/>
+<area shape="rect" id="node2" href="$class_blast_parser_pt1_imple.html" title="Blast結果ファイルの参照をtaxidに変換し、各クエリに対してこのカウントを出力する処理を行う" alt="" coords="147,5,288,32"/>
+<area shape="rect" id="node3" href="$class_blast_parser_pt2_imple.html" title="Blast結果ファイルより、各クエリに対する参照のスコア分布を出力する" alt="" coords="147,56,288,83"/>
+</map>

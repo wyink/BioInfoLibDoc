@@ -1,0 +1,4 @@
+<map id="クラス階層図" name="クラス階層図">
+<area shape="rect" id="node1" href="$class_i_fmeasure.html" title="fmeasureを計算するクラスの入出力を規定するインタフェース" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node2" href="$class_fmeasure_pt1.html" title="指定の入力形式からf&#45;measureを計算する" alt="" coords="136,5,236,32"/>
+</map>

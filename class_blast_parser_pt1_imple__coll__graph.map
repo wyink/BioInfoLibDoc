@@ -1,0 +1,4 @@
+<map id="BlastParserPt1Imple" name="BlastParserPt1Imple">
+<area shape="rect" id="node1" title="Blast結果ファイルの参照をtaxidに変換し、各クエリに対してこのカウントを出力する処理を行う" alt="" coords="5,189,167,311"/>
+<area shape="rect" id="node2" href="$class_i_blast_parser.html" title="BLAST結果ファイルを解析する際に利用できるハンドラ" alt="" coords="23,5,149,141"/>
+</map>
