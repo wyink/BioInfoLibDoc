@@ -1,5 +1,5 @@
 <map id="クラス階層図" name="クラス階層図">
-<area shape="rect" id="node1" href="$class_label_interface.html" title="Pajekファイルの一意の文字列ラベルを示すインタフェース" alt="" coords="5,31,108,57"/>
-<area shape="rect" id="node2" href="$class_label_double.html" title="Pajekファイルの階層ラベル(&quot;upperGroup/lowerGroup&quot;)を扱うクラス" alt="" coords="156,5,249,32"/>
-<area shape="rect" id="node3" href="$class_label_single.html" title="Pajekファイルの一意のラベルを扱うクラス" alt="" coords="158,56,247,83"/>
+<area shape="rect" id="node1" href="$class_i_label.html" title="Pajekファイルの一意の文字列ラベルを示すインタフェース" alt="" coords="5,31,61,57"/>
+<area shape="rect" id="node2" href="$class_label_double.html" title="Pajekファイルの階層ラベル(&quot;upperGroup/lowerGroup&quot;)を扱うクラス" alt="" coords="109,5,203,32"/>
+<area shape="rect" id="node3" href="$class_label_single.html" title="Pajekファイルの一意のラベルを扱うクラス" alt="" coords="111,56,201,83"/>
 </map>

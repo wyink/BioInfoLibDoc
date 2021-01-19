@@ -17,7 +17,7 @@ var dir_a71324646ddea3f1de9557c82fb2c07e =
     [ "PajekHelper.cpp", "_pajek_helper_8cpp.html", null ],
     [ "PajekHelper.h", "_pajek_helper_8h.html", [
       [ "PajekParser", "class_pajek_parser.html", "class_pajek_parser" ],
-      [ "LabelInterface", "class_label_interface.html", "class_label_interface" ],
+      [ "ILabel", "class_i_label.html", "class_i_label" ],
       [ "Node", "class_node.html", "class_node" ],
       [ "Vertices", "class_vertices.html", "class_vertices" ],
       [ "LabelSingle", "class_label_single.html", "class_label_single" ],

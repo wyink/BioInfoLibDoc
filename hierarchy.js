@@ -12,7 +12,7 @@ var hierarchy =
     [ "IFmeasure", "class_i_fmeasure.html", [
       [ "FmeasurePt1", "class_fmeasure_pt1.html", null ]
     ] ],
-    [ "LabelInterface", "class_label_interface.html", [
+    [ "ILabel", "class_i_label.html", [
       [ "LabelDouble", "class_label_double.html", null ],
       [ "LabelSingle", "class_label_single.html", null ]
     ] ],
